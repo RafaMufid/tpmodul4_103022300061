@@ -112,8 +112,6 @@ public class Program
                     DoorMachine door = new DoorMachine();
                     door.door();
                     break;
-                case 3:
-                    break;
             }
         } while (pilihan != 3);
     }
